@@ -114,7 +114,6 @@ h2, h4 {
   max-width: 20%;
   font-family: Paragraphs;
   transform: skew(-25deg);
-  border: 2px dashed #6A89A7;
   background: linear-gradient(to right, #6A89A7 50%, transparent 50%);
   background-size: 200% 100%;
   background-position: right bottom;
