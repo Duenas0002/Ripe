@@ -786,9 +786,9 @@ body {
     margin: 15px;
   }
   .Socio:hover{
-  filter: none;
-  transition-duration: 0.8s;
-  transform: scale(1.25);
+    filter: none;
+    transition-duration: 0.8s;
+    transform: scale(1.25);
   }
   .Socios{
     max-width: 100%;
@@ -894,9 +894,9 @@ body {
   margin: 15px;
 }
 .Socio:hover{
-filter: none;
-transition-duration: 0.8s;
-transform: scale(1.25);
+  filter: none;
+  transition-duration: 0.8s;
+  transform: scale(1.25);
 }
 
 
